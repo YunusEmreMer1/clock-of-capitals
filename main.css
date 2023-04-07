@@ -1,0 +1,36 @@
+body {
+
+    background-color: #000000;
+}
+
+.clock {
+
+    color: #7ec691;
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+
+.controls {
+
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+.controls button {
+    
+        color: #7ec691;
+        font-family: 'Lucida Sans', sans-serif;
+        font-size: 2rem;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        margin-right: 1rem;
+        margin-top: 100px;
+        padding: 1rem 1rem 1rem 1rem;
+}
+
